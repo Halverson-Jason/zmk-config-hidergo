@@ -3,7 +3,7 @@ manifest:
     - name: Halverson-Jason
       url-base: https://github.com/Halverson-Jason
   projects:
-    - name: zmk-hidergo
+    - name: zmk
       remote: Halverson-Jason
       revision: main
       import: app/west.yml

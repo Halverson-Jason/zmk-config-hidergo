@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: osmakari
-      url-base: https://github.com/osmakari
+    - name: Halverson-Jason
+      url-base: https://github.com/Halverson-Jason
   projects:
-    - name: zmk
-      remote: osmakari
+    - name: zmk-hidergo
+      remote: Halverson-Jason
       revision: main
       import: app/west.yml
   self:
